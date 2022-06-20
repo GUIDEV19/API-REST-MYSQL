@@ -6,3 +6,8 @@ Comando para rodar migration -- npx requelize-cli db:migrate
 
 Comando para criar seed  -- npx sequelize-cli seed:generate --name demo-pessoa
 
+Instalar dependencias -- npm i 
+
+rodar server -- npm run server
+
+
