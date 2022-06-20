@@ -1,0 +1,8 @@
+Comando para criar tabela -- npx sequelize-cli model: create --name Pessoas --attributes nome:string,ativo:boolean,email:string,role:string
+
+Comando para iniciar projeto sequelize  -- npx sequelize-cli init
+
+Comando para rodar migration -- npx requelize-cli db:migrate
+
+Comando para criar seed  -- npx sequelize-cli seed:generate --name demo-pessoa
+
